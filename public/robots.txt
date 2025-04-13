@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /private/
+
+# Allow everything else
+Allow: /
+
+# Sitemap location (if applicable)
+Sitemap: https://www.example.com/sitemap.xml
